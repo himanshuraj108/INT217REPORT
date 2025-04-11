@@ -18,6 +18,7 @@ This project demonstrates how Microsoft Excel can be effectively used for data a
 ## 📂 Dataset
 
 The dataset is manually created in Excel and stored in `INT217DASHBOARDPROJECT.xlsx`.
+Dataset Link - https://docs.google.com/spreadsheets/d/1IOzJGUQSSsJQS_q--1w2YjxOa4ZsUSKW/edit?usp=drive_link&ouid=113561465482240582378&rtpof=true&sd=true
 
 ### Fields Included:
 
